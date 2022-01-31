@@ -1,5 +1,5 @@
 # jkli
 Jumps keyboard Layout Installer
 
-## Why?
+### Why?
 why not
